@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.12.13)  4 JAN 2019 12:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.12.13)  11 JAN 2019 12:37
 entering extended mode
 **./SzablonDyplomowy.tex
 (SzablonDyplomowy.tex
@@ -838,21 +838,13 @@ Rozdzia\PlPrIeC {\l } 7.
 
 ] [8
 
-] (SzablonDyplomowy.toc)
-\tf@toc=\write4
-\openout4 = `SzablonDyplomowy.toc'.
-
- [9
-
-] [10
-
 ] (SzablonDyplomowy.aux) ) 
 Here is how much of TeX's memory you used:
- 11233 strings out of 492970
- 190365 string characters out of 3127037
+ 11229 strings out of 492970
+ 190351 string characters out of 3127037
  248698 words of memory out of 3000000
- 14871 multiletter control sequences out of 15000+200000
- 21173 words of font info for 51 fonts, out of 3000000 for 9000
+ 14870 multiletter control sequences out of 15000+200000
+ 19567 words of font info for 49 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,9n,41p,424b,256s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/user/AppData/Local/Programs/MiKTeX 2.9/font
@@ -860,9 +852,9 @@ s/enc/dvips/base/8r.enc}<C:/Users/user/AppData/Local/Programs/MiKTeX 2.9/fonts/
 type1/urw/palatino/uplb8a.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX 2.9/
 fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/user/AppData/Local/Programs/MiKTe
 X 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on SzablonDyplomowy.pdf (12 pages, 306680 bytes).
+Output written on SzablonDyplomowy.pdf (10 pages, 305181 bytes).
 PDF statistics:
- 58 PDF objects out of 1000 (max. 8388607)
+ 52 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
