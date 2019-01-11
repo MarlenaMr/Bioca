@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.12.13)  11 JAN 2019 12:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.12.13)  11 JAN 2019 12:49
 entering extended mode
 **./SzablonDyplomowy.tex
 (SzablonDyplomowy.tex
@@ -604,35 +604,49 @@ Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
 Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
 Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
 )
+("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.s
+ty"
+Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip53
+\f@nch@O@elh=\skip54
+\f@nch@O@erh=\skip55
+\f@nch@O@olh=\skip56
+\f@nch@O@orh=\skip57
+\f@nch@O@elf=\skip58
+\f@nch@O@erf=\skip59
+\f@nch@O@olf=\skip60
+\f@nch@O@orf=\skip61
+)
 \c@theorem=\count136
 \c@remark=\count137
 \c@definition=\count138
 \c@alg=\count139
 \c@prz=\count140
 \c@np=\count141
-(SzablonDyplomowy.aux)
+ (SzablonDyplomowy.aux)
 \openout1 = `SzablonDyplomowy.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 37.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 37.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 39.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 39.
 
 ("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Try loading font information for T1+ppl on input line 37.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Try loading font information for T1+ppl on input line 39.
 
 ("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\t1ppl.fd"
 File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
@@ -746,27 +760,27 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 47.
+LaTeX Font Info:    Try loading font information for U+msa on input line 52.
 
 ("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 47.
+LaTeX Font Info:    Try loading font information for U+msb on input line 52.
 
 ("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+lasy on input line 47.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 52.
 
 ("C:\Users\user\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ulasy.fd"
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <24.88> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 60.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 65.
 <logo.png, id=1, 242.8272pt x 239.4546pt>
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 65.
+Package pdftex.def Info: logo.png  used on input line 70.
 (pdftex.def)             Requested size: 194.26201pt x 191.56393pt.
 
 [1
@@ -819,10 +833,10 @@ Rozdzia\PlPrIeC {\l } 5.
 <zd.png, id=25, 779.91376pt x 556.32843pt>
 File: zd.png Graphic file (type png)
 <use zd.png>
-Package pdftex.def Info: zd.png  used on input line 110.
+Package pdftex.def Info: zd.png  used on input line 115.
 (pdftex.def)             Requested size: 467.95187pt x 333.79964pt.
 
-Overfull \hbox (24.37338pt too wide) in paragraph at lines 110--111
+Overfull \hbox (24.37338pt too wide) in paragraph at lines 115--116
 [] 
  []
 
@@ -840,13 +854,13 @@ Rozdzia\PlPrIeC {\l } 7.
 
 ] (SzablonDyplomowy.aux) ) 
 Here is how much of TeX's memory you used:
- 11229 strings out of 492970
- 190351 string characters out of 3127037
- 248698 words of memory out of 3000000
- 14870 multiletter control sequences out of 15000+200000
+ 11356 strings out of 492970
+ 191891 string characters out of 3127037
+ 250783 words of memory out of 3000000
+ 14993 multiletter control sequences out of 15000+200000
  19567 words of font info for 49 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,9n,41p,424b,256s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,9n,43p,424b,262s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/user/AppData/Local/Programs/MiKTeX 2.9/font
 s/enc/dvips/base/8r.enc}<C:/Users/user/AppData/Local/Programs/MiKTeX 2.9/fonts/
 type1/urw/palatino/uplb8a.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX 2.9/
