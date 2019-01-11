@@ -1,7 +1,7 @@
 \contentsline {chapter}{\numberline {1}Cel pracy}{1}
 \contentsline {chapter}{\numberline {2}Wprowadzenie}{2}
-\contentsline {chapter}{\numberline {3}Opracowanie teoretyczne}{3}
-\contentsline {chapter}{\numberline {4}Specyfikacja wewn\k etrzna}{4}
-\contentsline {chapter}{\numberline {5}Specyfikacja zewn\k etrzna}{5}
-\contentsline {chapter}{\numberline {6}Wyniki}{6}
-\contentsline {chapter}{\numberline {7}Podsumowanie}{7}
+\contentsline {chapter}{\numberline {3}Opracowanie teoretyczne}{4}
+\contentsline {chapter}{\numberline {4}Specyfikacja wewn\k etrzna}{5}
+\contentsline {chapter}{\numberline {5}Specyfikacja zewn\k etrzna}{6}
+\contentsline {chapter}{\numberline {6}Wyniki}{7}
+\contentsline {chapter}{\numberline {7}Podsumowanie}{8}
