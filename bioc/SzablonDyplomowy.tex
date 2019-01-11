@@ -18,6 +18,8 @@ bindingoffset=10mm, top=25mm, bottom=25mm}
 \usepackage{array}
 \usepackage{pstricks}
 \usepackage{textcomp}
+\usepackage{fancyhdr}
+
 \theoremstyle{definition}
 \newtheorem{theorem}{Twierdzenie}[section]
 \newtheorem{remark}{Uwaga}[section]
@@ -35,6 +37,9 @@ bindingoffset=10mm, top=25mm, bottom=25mm}
 \title{Tytu³ pracy}
 
 \begin{document}
+\pagestyle{fancy}
+\fancyhead[LE,RO]{\textsl{\rightmark}}
+\fancyhead[LO,RE]{\textsl}
 
 % Za¿ó³æ gêœl¹ jaŸñ.
 \begin{titlepage}
