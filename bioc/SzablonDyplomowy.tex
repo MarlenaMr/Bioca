@@ -1,0 +1,142 @@
+\documentclass[12pt, twoside, openany]{report}
+\usepackage[dvips]{graphicx,color,rotating}
+\usepackage[cp1250]{inputenc}
+\usepackage{t1enc}
+\usepackage{a4wide}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{enumerate}
+\usepackage{verbatim}
+\usepackage[MeX]{polski}
+\usepackage[T1]{fontenc}
+\usepackage{geometry}
+\geometry{left=25mm,right=25mm,%
+bindingoffset=10mm, top=25mm, bottom=25mm}
+\usepackage{amssymb, latexsym}
+\usepackage{amsthm}
+\usepackage{palatino}
+\usepackage{array}
+\usepackage{pstricks}
+\usepackage{textcomp}
+\theoremstyle{definition}
+\newtheorem{theorem}{Twierdzenie}[section]
+\newtheorem{remark}{Uwaga}[section]
+\newtheorem{definition}{Definicja}[section]
+\newtheorem{alg}{Algorytm}[chapter]
+\newtheorem{prz}{Przypadek}[section]
+\newtheorem{np}{Przyk³ad}[section]
+\newtheorem{lemma}[theorem]{Lemat}
+\linespread{1.5}
+\newcommand*{\norm}[1]{\left\Vert{#1}\right\Vert}
+\newcommand*{\abs}[1]{\left\vert{#1}\right\vert}
+\newcommand*{\om}{\omega}
+
+\author{Autor}
+\title{Tytu³ pracy}
+
+\begin{document}
+
+% Za¿ó³æ gêœl¹ jaŸñ.
+\begin{titlepage}
+\pagestyle{empty}
+
+\noindent
+\begin{Large}
+\begin{table}[t]
+\centering
+\begin{tabular}[t]{lcr}
+
+& WYDZIA£ IN¯YNIERII & \\
+& BIOMEDYCZNEJ &
+\end{tabular}
+\end{table}
+
+% \vfill
+\begin{center}PROJEKT\end{center}
+\begin{center}BIOCYBERNETYKA\end{center}\end{Large}
+% \vfill
+\begin{center}
+\Huge
+\textbf{Automaty komórkowe}
+
+\end{center}
+% \vfill\vfill
+\begin{center}
+\includegraphics[scale=0.8]{logo}
+
+\end{center}
+
+\vfill
+\begin{center}
+\normalsize
+Autorzy:\\
+\Large
+D¿esika Szymañska, Oliwia Drozdek, Marlena Mruczek
+\end{center}
+
+\begin{center}
+\large
+Zabrze, styczeñ 2018
+\end{center}
+
+
+
+
+% \maketitle
+\end{titlepage}
+\tableofcontents
+\thispagestyle{empty}
+\newpage
+\pagestyle{headings}
+\setcounter{page}{1}
+
+
+%-----------Pocz¹tek czêœci zasadniczej-----------
+
+\chapter{Cel pracy}
+Celem projektu jest przedstawienie tematu automatów komórkowych - pozyskanie wiedzy na temat ich dzia³ania oraz zastosowania. Efektem realizacji jest zaprojektowanie aplikacji z interfejsem graficznym.
+
+\chapter{Wprowadzenie}
+
+\chapter{Opracowanie teoretyczne}
+
+\chapter{Specyfikacja wewnêtrzna}
+
+Do stworzenia aplikacji zosta³o wykorzystane œrodowisko app designer w matlabie. 
+Aplikacja zawiera 4 regu³y – ka¿da z nich posiada w³asn¹ metodê. Metody te przyjmuj¹ parametr app, który pozwala na korzystanie z pozosta³ych komponentów programu. W ciele funkcji zostaje modyfikowana siatka GRID w nieskoñczonej funkcji for. Modyfikacja zale¿y od zadanych warunków, które s¹ specyficzne dla konkretnej regu³y. Wynik jest prezentowany graficznie – przedstawienie siatki GRID.
+
+\chapter{Specyfikacja zewnêtrzna}
+
+\includegraphics[scale=0.6]{zd}
+
+
+
+
+
+\chapter{Wyniki}
+\chapter{Podsumowanie}
+
+
+%-----------Koniec czêœci zasadniczej-----------
+
+\begin{thebibliography}{11}
+\bibitem[1]{B} Stanis³aw Bia³as, \emph{Macierze. Wybrane problemy}, AGH Uczelniane Wydawnictwa Naukowo-Dydaktyczne, Kraków, 2006.
+\bibitem[2]{H} Nicholas J. Higham, \emph{Accuracy and stability of numerical algorithms}, SIAM, Philadelphia 1996.
+\bibitem[3]{H2} Nicholas J. Higham, \emph{Functions of Matrices. Theory and Computation}, SIAM, Philadelphia 2008.
+\bibitem[4]{DJ} Maksymilian Dryja, Janina i Micha³ Jankowscy, \emph{Przegl¹d metod i algorytmów numerycznych, czêœæ 2}, Wydawnictwa Naukowo-Techiczne, Warszawa 1982.
+\end{thebibliography}
+\tableofcontents
+\clearpage
+\pagestyle{empty}
+\noindent Warszawa, dnia ...............
+\vspace{5cm}
+\begin{center}
+\LARGE{Oœwiadczenie}
+\end{center}
+Oœwiadczam, ¿e pracê magistersk¹ pod tytu³em: ,,Tytu³ pracy'', której promotorem jest prof. dr hab. Jan Wybitny, wykona³em/am samodzielnie, co poœwiadczam w³asnorêcznym podpisem.
+\vspace{2cm}
+\begin{flushright}
+...........................................
+\end{flushright}
+
+\end{document}
